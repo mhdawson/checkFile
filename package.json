@@ -1,0 +1,22 @@
+{
+  "name": "check-file",
+  "version": "0.0.1",
+  "description": "Quick scripts to check file in github",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "got": "^11.8.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhdawson/checkFile.git"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node lib/index.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
